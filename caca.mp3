@@ -1,0 +1,5 @@
+<p>Son Bien soigné :</p>
+<audio controls>
+  <source src="caca.mp3" type="audio/mpeg">
+  Votre navigateur ne supporte pas l'élément audio.
+</audio>
